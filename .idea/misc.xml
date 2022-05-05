@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExRessourceTDI201/app/src/main/res/drawable/forme.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExRessourceTDI201/app/src/main/res/drawable/forme1.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/ExRessourceTDI201/app/src/main/res/drawable/state1.xml" value="0.1" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/ExRessourceTDI201/app/src/main/res/layout/activity_main.xml" value="0.33" />
       </map>
     </option>

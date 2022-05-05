@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="s1" parent="android:Widget.Button">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textSize">@dimen/d2</item>
+        <item name="android:background">@color/c2</item>
+        <item name="android:layout_margin">@dimen/d1</item>
+        <item name="android:padding">40dp</item>
+    </style>
+
+
+    <style name="s1.s2" >
+        <item name="android:gravity">right</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+</resources>

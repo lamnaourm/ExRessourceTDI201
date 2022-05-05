@@ -9,14 +9,25 @@
 
 
     <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        style="@style/s1"
         android:text="@string/chaine1"
         android:id="@+id/btn"
-        android:layout_margin="@dimen/d1"
-        android:padding="@dimen/d2"
-        android:background="@color/c1"
-        android:textColor="@color/c2"/>
+        />
+
+
+    <Button
+        style="@style/s1.s2"
+        android:text="@string/chaine1"
+        android:background="@drawable/state1"
+        android:id="@+id/btn1"
+        />
+
+    <Button
+        style="@style/s1"
+        android:text="@string/chaine1"
+        android:id="@+id/btn2"
+        />
+
 
 
 </LinearLayout>
