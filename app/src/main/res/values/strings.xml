@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">ExRessourceTDI201</string>
+    <string name="app_name">Exemple 1 - RESSOURCE</string>
+
+
+    <string name="chaine1">Sauvegarder</string>
+    <string name="chaine2">Annuler</string>
+
 </resources>

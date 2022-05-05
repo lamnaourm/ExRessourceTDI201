@@ -10,5 +10,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Resuperer la valeur de chaine2
+        String ch = getString(R.string.chaine2);
+
+
     }
 }
