@@ -22,5 +22,12 @@ public class MainActivity extends AppCompatActivity {
         String[] t = getResources().getStringArray(R.array.filiere);
 
 
+        // Recuperer une valeur.
+        int a = getResources().getInteger(R.integer.val1);
+
+        // Recuperer un tab des entiers
+        int[] b = getResources().getIntArray(R.array.taux);
+
+
     }
 }

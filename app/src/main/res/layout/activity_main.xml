@@ -18,4 +18,9 @@
         android:layout_height="wrap_content"
         android:text="@string/chaine1"/>
 
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="@integer/val1"/>
+
 </LinearLayout>
