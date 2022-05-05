@@ -7,20 +7,16 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Enregistrer"/>
-
 
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/chaine1"/>
+        android:text="@string/chaine1"
+        android:id="@+id/btn"
+        android:layout_margin="@dimen/d1"
+        android:padding="@dimen/d2"
+        android:background="@color/c1"
+        android:textColor="@color/c2"/>
 
-    <ProgressBar
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:max="@integer/val1"/>
 
 </LinearLayout>
