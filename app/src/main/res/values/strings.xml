@@ -5,4 +5,10 @@
     <string name="chaine1">Sauvegarder</string>
     <string name="chaine2">Annuler</string>
 
+    <string-array name="filiere">
+        <item>TDI</item>
+        <item>TRI</item>
+        <item>INFO</item>
+    </string-array>
+
 </resources>
